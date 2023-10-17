@@ -211,6 +211,7 @@ ul.footer {
     display: block;
 }
 
-.social-link.svg {
+/* Selector with a rule for children */
+.social-link > svg {
     color: var(--text-color);
 }
