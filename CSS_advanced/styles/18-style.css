@@ -55,7 +55,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     text-align: center;
 }
 
-.nav-item{
+.nav .nav-item{
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
@@ -64,12 +64,12 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     margin: var(--nav-item-margin);
 }
 
-.nav-link {
+.nav .nav-link {
     display: block;
-    padding: 0.5rem 1rem 0.5rem 1rem;
+    padding: 0.5rem 1rem;
 }
 
-.nav-link:hover {
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
 
