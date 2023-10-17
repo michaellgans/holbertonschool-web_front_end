@@ -213,5 +213,5 @@ ul.footer {
 
 /* Selector with a rule for children */
 .social-link > svg {
-    color: var(--text-color);
+    fill: var(--text-color);
 }
