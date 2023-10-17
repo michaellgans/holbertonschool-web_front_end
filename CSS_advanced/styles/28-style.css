@@ -153,7 +153,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     position: var(--header-logo-position);
 }
 
-.header-logo:link {
+.header-logo a {
     display: var(--header-logo-link-display);
     position: var(--header-logo-position);
     top: var(--header-logo-link-top);
