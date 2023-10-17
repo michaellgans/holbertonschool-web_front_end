@@ -48,6 +48,10 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     color: #D73953;
 }
 
+.navbar-menu {
+    float: right;
+}
+
 .nav {
     margin: 0;
     padding: 0;
@@ -71,10 +75,6 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
-}
-
-.navbar-menu {
-    float: right;
 }
 
 .section {
