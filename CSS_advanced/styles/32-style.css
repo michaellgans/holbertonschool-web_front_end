@@ -75,8 +75,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background: var(--button-hover-background);
-    transition-duration: var(--transition-duration);
-    transition-property: color, background-color;
+    transition: var(--transition-duration) color, var(--transition-duration) background-color;
 }
 
 .card-category {
